@@ -1,4 +1,4 @@
-# Curso-R-B-sico
+# Curso-R-Básico
 
 ## **Objetivo del curso**
 Este curso busca proporcionar un punto de partida para que puedas a empezar a utilizar **R** de una manera básica, adquiriendo algunas nociones y conceptos para así avanzar progresivamente en el manejo de las herramientas que nos ofrece .
